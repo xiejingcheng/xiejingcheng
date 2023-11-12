@@ -1,16 +1,25 @@
-### Hi there 👋
+# **Biography**
 
-<!--
-**xiejingcheng/xiejingcheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am Xie Jingcheng.
 
-Here are some ideas to get you started:
+I'm an undergrad at Xidian University, soon to join USTC for my graduate studies. Currently interning in image algorithms at VIVO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📞 **Phone:** (+86) 139-7338-7126  
+📧 **Email:** jingchengxie0131@gmail.com
+
+## Education Experience
+
+- **Undergraduate:** [Xidian University (XDU)](https://www.xidian.edu.cn/)
+
+  - *Intelligent Science and Technology, School of Artificial Intelligence*  
+
+  - *Undergraduate Student* | 2020.09—2024.7 |
+  - *Ranked 7th out of 163 in major courses*
+
+- **Future Graduate Studies:** [University of Science and Technology of China (USTC)](http://www.ustc.edu.cn/)
+
+## Internship Experience
+
+- **Vivo Mobile Communications Co., Ltd**
+  - *Image Effects Project Department*
+  - *Assistant Algorithm Engineer* | 2023.09—2024.01
