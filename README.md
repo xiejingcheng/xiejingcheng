@@ -1,6 +1,8 @@
-# **Biography**
+[![Anurag's GitHub stats](D:\pypro\xiejingcheng\img\api.svg+xml)](https://github.com/anuraghazra/github-readme-stats)
 
-Hello, I am Xie Jingcheng.
+# Hey! Nice to see you.
+
+Hello, I am Xie Jingcheng. A student from **Hunan, China**, currently living **Shaanxi China** .
 
 I'm an undergrad at Xidian University, soon to join USTC for my graduate studies. Currently interning in image algorithms at VIVO.
 
