@@ -4,7 +4,7 @@
 
 Hello, I am Xie Jingcheng. A student from **Hunan, China**, currently living **Shaanxi China** .
 
-I'm an undergrad at Xidian University, soon to join USTC for my graduate studies. Currently interning in image algorithms at VIVO.
+I'm an undergrad at Xidian University, soon to become a master's student at USTC for my graduate studies. Currently, I am interning in image algorithms at VIVO.
 
 📞 **Phone:** (+86) 139-7338-7126  
 📧 **Email:** jingchengxie0131@gmail.com
@@ -24,7 +24,7 @@ I'm an undergrad at Xidian University, soon to join USTC for my graduate studies
 
 ## Internship Experience
 
-- **Vivo Mobile Communications Co., Ltd**
+- **VIVO Mobile Communications Co., Ltd**
   - *Image Effects Project Department*
   - *Assistant Algorithm Engineer* | 2023.09—now |
 
