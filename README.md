@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](D:\pypro\xiejingcheng\img\api.svg+xml)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Hey! Nice to see you.
 
@@ -8,6 +8,8 @@ I'm an undergrad at Xidian University, soon to join USTC for my graduate studies
 
 📞 **Phone:** (+86) 139-7338-7126  
 📧 **Email:** jingchengxie0131@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiejingcheng&theme=THEME_NAME&?count_private=true?theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education Experience
 
@@ -26,8 +28,11 @@ I'm an undergrad at Xidian University, soon to join USTC for my graduate studies
   - *Image Effects Project Department*
   - *Assistant Algorithm Engineer* | 2023.09—now |
 
-## Technical Skills
 
-- **Programming Languages:** Python, Matlab, C
-- **Frameworks:** PyTorch, Keras, Scrapy
-- **Software:** PyCharm, Linux and Shell, Git, Docker
+
+
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiejingcheng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
+
+
