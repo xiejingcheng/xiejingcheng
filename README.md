@@ -22,4 +22,10 @@ I'm an undergrad at Xidian University, soon to join USTC for my graduate studies
 
 - **Vivo Mobile Communications Co., Ltd**
   - *Image Effects Project Department*
-  - *Assistant Algorithm Engineer* | 2023.09—2024.01
+  - *Assistant Algorithm Engineer* | 2023.09—now |
+
+## Technical Skills
+
+- **Programming Languages:** Python, Matlab, C
+- **Frameworks:** PyTorch, Keras, Scrapy
+- **Software:** PyCharm, Linux and Shell, Git, Docker
